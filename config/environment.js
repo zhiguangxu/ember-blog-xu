@@ -15,8 +15,8 @@ module.exports = function(environment) {
 
     firebase: {
          apiKey: "AIzaSyBQOqAEzNlGJ6LYavxDwv22H6o_imcmJKA",
-         authDomain: "ember-blog-xu-zhiguang.firebaseapp.com",
-         databaseURL: "https://ember-blog-xu-zhiguang.firebaseio.com",
+         authDomain: "ember-blog-xu.firebaseapp.com",
+         databaseURL: "https://ember-blog-xu.firebaseio.com",
          storageBucket: "ember-blog-xu.appspot.com",
          messagingSenderId: "316787040328"
     },
